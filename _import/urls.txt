@@ -1,0 +1,2 @@
+_raw/bg-outubro-1.jpg https://pikaso.cdnpk.net/private/production/5613683541/render.jpg?token=exp=1791072000~hmac=a4753da74e94fa22a944f06c2c31d786b84d578d0bf20f5366750a78df01eb98
+_raw/bg-outubro-2.jpg https://pikaso.cdnpk.net/private/production/5613683631/render.jpg?token=exp=1791072000~hmac=0a0b72a92ef1e3c56c3c884573128bbc56f24e333049f4086bf2501ddad84312
